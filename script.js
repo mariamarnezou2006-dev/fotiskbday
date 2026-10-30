@@ -29,7 +29,7 @@ function extinguishFlame(flame) {
     blownOutCount++;
 
     if (blownOutCount === flames.length) {
-        instructionText.innerText = "ΜΠΡΑΒΟΟΟΟΟΟΟ!!!";
+        instructionText.innerText = "breathalyzer result 0.4";
         instructionText.style.color = "#00d2ff";
         instructionText.style.fontWeight = "bold";
         
